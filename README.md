@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Hello everyone, my name is Juan Diego Arom and I'm 18 years old. 🌟<br>I am a software development student currently halfway through my degree. 🎓 <br>I reside in Lima, Peru. <br>I consider myself a team player and a self-learner. 🤝💡<br> In addition, I enjoy contributing my knowledge in a friendly manner to the projects I'm involved in. 💪🌍
+<br>✅Hello everyone, my name is Juan Diego Arom and I'm 18 years old. 🌟<br>✅I am a software development student currently halfway through my degree. 🎓 <br>✅I reside in Lima, Peru. <br>✅I consider myself a team player and a self-learner. 🤝💡<br>✅In addition, I enjoy contributing my knowledge in a friendly manner to the projects I'm involved in. 💪🌍
 
 
 ## 🌐 Socials:
